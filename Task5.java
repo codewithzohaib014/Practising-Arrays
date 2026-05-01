@@ -1,6 +1,7 @@
+//calculating sum of and ary
 import java.util.Scanner;
 
-public class Task6 {
+public class Task5 {
 
     public static void main(String[] args) {
 
